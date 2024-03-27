@@ -1,2 +1,2 @@
-# One_Oracle_Next-Education_Roy
-Este repositorio almacena todos los trabajos realizados en el programa One
+# Proyecto: Tienda Alura
+Proyecto final de los 4 cursos de HTML y CSS3 para completar la "Formación Principiante en Programación G6-ONE"
