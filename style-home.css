@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .titulo-principal{
     padding-left: 30px;
 }
@@ -56,3 +57,63 @@ ul{
 }
 
 
+=======
+.titulo-principal{
+    padding-left: 30px;
+}
+
+#banner{
+    width: 100%;
+}
+
+.principal{
+    background-color: #CCCCCC;
+    padding: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+    /*height: 150px;
+    /* border: 10px solid; */
+    /*border: 10px solid #000000;
+    padding: 20px;
+    margin: 40px;
+    /* margin-left: 40px; */
+}
+p{
+    text-align: center;
+}
+
+em strong{
+    color: red;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.diferenciales{
+    background-color: #FFFFFF;
+    padding: 30px;
+}
+
+
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+
+.imagenDiferencial{
+    width: 50%;
+}
+
+
+>>>>>>> 66b0a8b47c482f402bc79ee301ee34d353bb091b
